@@ -2,7 +2,7 @@ FORK REPOSITORY AND SET UPSTREAM
 1. После форка в вашем github появится несинхронизованная
 копия (fork), склонируем ее и получим рабочую копию форка
   
-  git clone https://github.com/YOUR_USERNAME/project.git
+    git clone https://github.com/YOUR_USERNAME/project.git
 
 2. Свяжем рабочую копию вашего форка с репозиторием курса,
 чтобы вы могли их синхронизировать и работать со свежей
